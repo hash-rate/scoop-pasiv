@@ -1,12 +1,12 @@
 {
-  "version": "0.4.51",
+  "version": "0.4.52",
   "description": "One-button non-custodial miner that turns idle CPU/GPU time into crypto",
   "homepage": "https://pasiv.network/",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/hash-rate/pasiv-releases/releases/download/v0.4.51/Pasiv_0.4.51_x64-setup.exe#/dl.exe",
-      "hash": "3159db13ee51d2ada95956ed2999d7a7e37140994ae70ba465f876be0ec64da8"
+      "url": "https://github.com/hash-rate/pasiv-releases/releases/download/v0.4.52/Pasiv_0.4.52_x64-setup.exe#/dl.exe",
+      "hash": "bd1d7b4b7d9a6e7c881053f2150d088332c280308d635b59cba4db935edc9398"
     }
   },
   "installer": {
